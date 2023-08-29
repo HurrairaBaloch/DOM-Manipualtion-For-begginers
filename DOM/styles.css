@@ -2,15 +2,6 @@ body {
   justify-content: center;
   display: flex;
   align-items: center;
-  background-color: red;
-}
-
-#box {
-  height: 400px;
-  width: 300px;
-  background-color: green;
-  border-radius: 33px;
-  padding: 30px;
 }
 
 #box img {
